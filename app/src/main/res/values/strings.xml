@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Notification Assistant</string>
+    <string name="permission_required">Notification Access Required</string>
+    <string name="permission_description">This app needs access to your notifications to help you stay organized. We don\'t store or share your data.</string>
+    <string name="enable_access">Enable Notification Access</string>
+    <string name="ask_about_notifications">Ask about your notifications...</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="chat">Chat</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="what_can_i_help">What can I help you with today?</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="api_key">Gemini API Key</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="system">System</string>
+    <string name="notification_filter">Notification Filter</string>
+    <string name="export_database">Export Database</string>
+    <string name="import_database">Import Database</string>
+    <string name="delete_all_data">Delete All Data</string>
+    <string name="database_size">Database Size</string>
+    <string name="about">About</string>
+    <string name="privacy">Privacy</string>
+    <string name="version">Version</string>
+    <string name="description">An AI-powered notification assistant that helps you organize and understand your notifications.</string>
+</resources>
