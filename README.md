@@ -1,6 +1,6 @@
 # AI Personal Notification Assistant
 
-A production-ready Android application that uses AI to help you understand and manage your notifications. Built with Jetpack Compose, Material Design 3, and Gemini AI.
+An Android application that uses on-device rules and opt-in Gemini AI to help you understand and manage your notifications. Built with Jetpack Compose, Material Design 3, and Gemini AI.
 
 ## Features
 
@@ -252,7 +252,8 @@ Modify `domain/engine/ImportanceEngine.kt` to add:
 
 ## Performance
 
-- Supports 500,000+ notifications
+- Room + SQLCipher indexed local storage
+- On-device rule engine (`ImportanceEngine`) for priority scoring, plus opt-in Gemini query summarization
 - Instant full-text search
 - Efficient SQLCipher queries
 - Optimized Compose recomposition
